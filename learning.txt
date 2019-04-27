@@ -1,2 +1,3 @@
  - create github account
  - do verif to your account
+ - do login to github with username and your password
