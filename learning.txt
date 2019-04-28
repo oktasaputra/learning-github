@@ -3,5 +3,5 @@
  - create one of the repository
  
  - create fitur
-   * registration
-   * Login
+   * registration is done
+   * membuat homepage
