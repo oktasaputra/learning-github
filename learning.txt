@@ -5,3 +5,5 @@
  - create fitur
    * registration is done
    * membuat homepage
+   * Login telah selesai
+   * membuat menu dashboard
