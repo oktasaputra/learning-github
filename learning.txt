@@ -1,3 +1,7 @@
  - create github account
  - do login to github with username and your password
  - create one of the repository
+ 
+ - create fitur
+   * registration
+   * Login
