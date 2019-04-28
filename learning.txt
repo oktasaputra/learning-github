@@ -3,6 +3,7 @@
  - create one of the repository
  
  - create fitur
-   * registration
+   * registration is done
+   * membuat homepage
    * Login telah selesai
    * membuat menu dashboard
